@@ -12,7 +12,7 @@
 * This is a complete demo site for practicing QA & Test Automation methodologies. 
 * Don't think for a second you can actually buy here something because you can't ! 
 * This Demo Store contains software bugs which were put intentionally and So that the tester can locate them.
-* 
+
 ### 🔑 Keywords:
 >* Selenium package =  is used to automate web browser interaction from Python.
 >* WebDriver = is an automated testing framework used for the validation of websites and web applications. 
@@ -43,7 +43,6 @@
 >- Selenium 
 >- pytest
 >- Microsoft Excel
-
 
 # 💻 Source
 - Pycharm software
