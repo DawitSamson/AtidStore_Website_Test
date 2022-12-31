@@ -5,7 +5,6 @@
 - Dawit Samson Belay
 - [Link To GitHub/Dawit Samson](https://github.com/DawitSamson)
 
-
 ## **⚡ This Project is An Automatic test on AtidStore Website Using Selenium **
 ## Overview about the website
 * ATID Demo Store was created by ATID College dedicated employees. 
@@ -36,7 +35,7 @@
 >* in the Test_AtidStore py file I have 5 Functional test cases.
 >* to run this test I used Firefox open-source web browser to Run my codes using Pytest. 
 
-# 🛠️ Project Tools and Packages Used
+# 🛠️ Project Tools and Packages Used 
 >On this Project I used 
 >- Python Functions
 >- PyCharm
@@ -50,7 +49,7 @@
 - Google 
 - Firefox
 - w3schools
-
+  - AtidStore
 
 ### 🙌☺️️☺️🙌   Thank you!!!     🙌☺️️☺️🙌
 
