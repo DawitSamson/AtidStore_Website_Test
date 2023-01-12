@@ -34,6 +34,12 @@
 >* the Py files are "Test_AtidStore" and "Locators"
 >* in the Test_AtidStore py file I have 5 Functional test cases.
 >* to run this test I used Firefox open-source web browser to Run my codes using Pytest. 
+>> * Other task which is added to this project which find on "E2E Py file" are:
+>>> 1. E2E process on 5 functional tests
+>>> 2. Add to the cart just the product with sale & the original price > 72.00 (Add all the products to the cart).
+>>> 3. In " Our Best Sellers" Section add only the products with 5-star rank.
+>>> 4. Send Question to the site admin via Contact Us screen.
+>* This project also Build using OOP and have Multiple class.
 
 # 🛠️ Project Tools and Packages Used 
 >On this Project I used 
@@ -48,6 +54,7 @@
 - GitHub 
 - Google 
 - Firefox
+- Chrome
 - w3schools
   - AtidStore
 
